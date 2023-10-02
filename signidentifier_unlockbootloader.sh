@@ -25,7 +25,7 @@ SIGNATURE=$3
 IDENTIFIER_TXT=identifier.txt
 IDENTIFIER_BIN=identifier.bin
 PADDING_BIN=padding.bin
-IDENTIFIER_BIN_MAX_SIZE=64
+IDENTIFIER_BIN_MAX_SIZE=128
 
 
 # *************** #
